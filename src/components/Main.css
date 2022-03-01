@@ -1,0 +1,32 @@
+
+
+
+.App {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+  }
+  .controls{
+    width: 40vw;
+    margin: 0px 100px;
+    padding: 0px 50px;
+    font-weight: bold;
+    font-family: cursive;
+
+  }
+  label{
+      font-size: 25px;
+      color: black;
+  }
+  .box{
+    text-align: center;
+    padding: 20vh 0px;
+    font-size: 20px;
+    width: 30vw;
+    height: 50vh;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+    margin: 0px 100px;
+  }
